@@ -4,6 +4,7 @@ Land Use Visualisation Dashboard based on World Bank Land Use Data.
 
 ## Introduction
 A python web application that displays Land Usage by the top 10 economies in the world, according to data from the [World Bank Database](data.worldbank.org). 
+Visit the first deployed version [here](https://my-wblives-app.herokuapp.com/)
 
 ## File Description
 
